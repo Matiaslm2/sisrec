@@ -1,0 +1,38 @@
+--atualizar as capas;
+--botao de eliminar; FEITO
+--botao de adicionar dentro de ver mais;FEITO
+--mudar o aspeto grafico do site;
+--alterar o icon da falta de login;FEITO
+--no carrinho indicar quem esta com login feito;FEITO
+--botao de requisitar FEITO
+--gravar uma nova requisiçao
+--ver requisiçoes
+--documentar o que foi feito 
+
+
+
+--Back-end
+tratar da página index (arranjar o menu da esquerda, nº de livros na db)
+uma opção de menu chamada livros que tem tabela com todos os livros; livros sem ISBN, sem capa, 
+
+--Base de dados
+trocar nomes db -----------------------------
+importar lista de alunos(em espera)
+
+--criar uma copia de segurança github Matias
+
+--livros
+colocar mais livros na primeira pagina (livros mais requisitados)
+no ver+ nao mostra a foto (sem capa)
+contador do carrinho
+
+
+--carrinho
+indicar que foi efetuada a requisição FEITO
+tabela com informaçao do nº de livros requisitados e a devolver
+
+
+--devolução de livros
+informção sobre a requisição dos livros (ir levantar os livros)
+
+
